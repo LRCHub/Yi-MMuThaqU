@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ジブラ (すりぃ ver.)",
+  "base_artist": "すりぃ",
+  "createdAt": "2026-02-17T02:37:12.955642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジブラ - すりぃ ver.",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_ジブラ_-_すりぃ_ver._すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジブラ",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/02_ジブラ_すりぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジブラ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_ジブラ_すりぃ.txt"
+    }
+  ]
+}
